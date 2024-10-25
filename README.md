@@ -1,4 +1,4 @@
-본 프로젝트는 **'2024-1 딥러닝 수업'** 에서 과제로 제출한 프로젝트입니다. 
+본 프로젝트는 **'2024-1 딥러닝 수업'** 에서 진행한 프로젝트입니다. 
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/8f6e5bd9-8a26-47bf-b342-d3046146078e)
+![4-1](https://github.com/user-attachments/assets/74b08331-e271-470e-b613-616bec767e7a)
 
 <br/>
 
@@ -57,11 +57,18 @@
 <br/>
 
 ### 피드백
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/947b0341-25ca-48b6-b1d5-cee01b82ce9d)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/f4c740c3-f66c-4109-bb02-ac77e68040bf)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/cf8dd009-6882-481c-a17e-66f97a952764)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/2ec51447-22a1-4e06-b5b2-212894c3bd36)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/2be8c00a-4033-40ab-bae9-f0023d9b28c3)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/8f43a869-4808-415f-b487-68b8e5977c5e)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/0fb3af56-d1fb-452d-a9f2-7bcd20895a3f)
-![image](https://github.com/hsjo827/KMU_Project/assets/133327403/c883c298-33ce-40ee-b29e-d0b18bd364ec)
+![4-2](https://github.com/user-attachments/assets/08f9ee62-c78c-433b-8181-d288c450e2db)
+![4-3](https://github.com/user-attachments/assets/11fc9965-02b3-46d6-a13b-a8ad8ce5cc77)
+![4-4](https://github.com/user-attachments/assets/605dbb19-89ac-4a15-af24-28b2329c7445)
+![4-5](https://github.com/user-attachments/assets/3c10cdfd-8ba2-4fc5-944d-b4aa639fd177)
+![4-6](https://github.com/user-attachments/assets/da3ecd1b-5018-41fe-b80c-49c84ba27632)
+![4-7](https://github.com/user-attachments/assets/b57b8ce1-38d8-4e37-8128-1c7ee3b2cc6e)
+![4-8](https://github.com/user-attachments/assets/1d816990-70b3-45f1-b153-7da91784c707)
+![4-9](https://github.com/user-attachments/assets/3910d8a2-2d4e-4fa2-802d-9f45e2cc8500)
+
+
+
+
+
+
+
